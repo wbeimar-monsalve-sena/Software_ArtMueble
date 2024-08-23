@@ -1,0 +1,9 @@
+com\mycompany\sof_artmueble\JakartaRestConfiguration.class
+com\mycompany\sof_artmueble\servlets\ServletRecuperarContrasena.class
+com\mycompany\sof_artmueble\resources\JakartaEE10Resource.class
+com\mycompany\sof_artmueble\servlets\ServletInicioSesion.class
+com\mycompany\sof_artmueble\servlets\ServletRegistroUsuario.class
+com\mycompany\sof_artmueble\servlets\ServletActualizarInformacion.class
+com\mycompany\sof_artmueble\modelos\RecuperacionContrasena.class
+com\mycompany\sof_artmueble\modelos\Usuario.class
+com\mycompany\sof_artmueble\utils\ConexionDB.class
